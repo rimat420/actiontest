@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Simple VitePress Site"
-  text: "Training Page for Cloud Computing Course"
+  text: "Training Page Action Tests @ MATHOME"
   tagline: My great project tagline
   actions:
     - theme: brand
