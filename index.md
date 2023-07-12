@@ -17,7 +17,7 @@ hero:
 features:
   - title: Feature CHANGE
     details: Änderung 1, mathome
-  - title: Feature B
+  - title: Commit für Yaml 2
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
