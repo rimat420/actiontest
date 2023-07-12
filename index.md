@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Simple VitePress Site"
-  text: "Training Page Action Tests @ MATHOME"
-  tagline: My great project tagline
+  name: "Spannende Workflows, nur 14,90"
+  text: "Frisch aufgeschnitten @ MATHOME"
+  tagline: Darf´s an Deka mehr sein?
   actions:
     - theme: brand
       text: Markdown Examples
